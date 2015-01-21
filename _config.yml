@@ -1,1 +1,3 @@
 baseurl: /demo1
+highlighter: true
+paginate: 2
